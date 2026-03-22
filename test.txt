@@ -1,4 +1,4 @@
-Manual Commint test 1
-n8n automated Commint test 1
-n8n automated Commint test 2
-n8n automated Commint test 3
+Manual commit test 1
+n8n automated commit test 1
+n8n automated commit test 2
+n8n automated commit test 3
